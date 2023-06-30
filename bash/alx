@@ -1,0 +1,9 @@
+#!/bin/bash
+echo"ALX"
+^c
+^C
+echo "ALX"
+^C
+echo "ALX"
+^ C
+EXIT
